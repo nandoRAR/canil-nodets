@@ -6,6 +6,10 @@ Projeto feito no módulo do curso Node + Typescript da b7web. Canil é um site p
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
+### 🌐 Web
+
+https://infinite-crag-00716.herokuapp.com/
+
 ### Pré-requisitos globais:
 
 ```bash
